@@ -1,0 +1,1 @@
+javascript:(async()=>{try{const r=await fetch('https://scriptgenesys-code.github.io/Pingo/Loader.js?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error();(0,eval)(await r.text());}catch{alert('Não foi possível carregar o Pingo nesta página.');}})()

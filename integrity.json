@@ -1,0 +1,302 @@
+{
+  "schema": 1,
+  "distribution": "2026-10-25.1",
+  "base": "https://scriptgenesys-code.github.io/Pingo/",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "Loader.js",
+      "bytes": 1603,
+      "sha256": "067fe3787a3d0dd38495e809382e7d555341d3379c4aa8666ff64913b2458ce1"
+    },
+    {
+      "path": "THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+    },
+    {
+      "path": "android.html",
+      "bytes": 2923,
+      "sha256": "d6e8496d6b8a13e8d730dc2dfc82e8e20105f64747d87d7790f73f7e21e9719c"
+    },
+    {
+      "path": "animacoes-275.json",
+      "bytes": 20180,
+      "sha256": "8aa088069d2cfdce0b05cf3786303e7ce2404e4b276e55705dc2ad1fc4537eea"
+    },
+    {
+      "path": "animacoes.json",
+      "bytes": 5343,
+      "sha256": "56ea19f66625046012fe224a5d65aa440a3405f456eb75a4a2f102d152219dcd"
+    },
+    {
+      "path": "assets/page-conversar-html-1.js",
+      "bytes": 1260,
+      "sha256": "1c79fd0cd4f27f8580ae46471fed25c4b88505d955ae9bfd6dbc6f19c88785d2"
+    },
+    {
+      "path": "assets/page-galeria-275-html-1.js",
+      "bytes": 902,
+      "sha256": "43999359a358bb74e6de76a553536a9977856ad51da90cebd4f76171cfd09c89"
+    },
+    {
+      "path": "assets/page-galeria-v75-html-1.js",
+      "bytes": 913,
+      "sha256": "7d8e8ef240b7b2e7c5dbe071ffbb2bfd40874c63408e46763cbf96d9bdff46f8"
+    },
+    {
+      "path": "assets/page-gramado-html-1.js",
+      "bytes": 1336,
+      "sha256": "0c785e769be59ebfb28fd9176436f0953aba8dc07993943d2c744b4c48dffcfe"
+    },
+    {
+      "path": "assets/page-index-html-1.js",
+      "bytes": 979,
+      "sha256": "54d564ff4b2020881f04b97e1261070f5c3892b633e3300438d8b213310b8177"
+    },
+    {
+      "path": "assets/page-passeio-html-1.js",
+      "bytes": 1366,
+      "sha256": "4c030defbadec1e9e5e62df5364fc88cb2abbe1281cc762839dcd274573bee4e"
+    },
+    {
+      "path": "assets/page-passeio-painel-html-1.js",
+      "bytes": 1314,
+      "sha256": "e7e5c4101b8b8aa11758ccf3547d3d8128c96bb06fb704d774d78f94a7d3012c"
+    },
+    {
+      "path": "assets/page-passeio-v75-html-1.js",
+      "bytes": 1245,
+      "sha256": "81cd5207314973b82388b53a8b0226e03b86de9828ab7439f234ba6ef2332950"
+    },
+    {
+      "path": "assets/page-pingo-275-html-1.js",
+      "bytes": 1406,
+      "sha256": "627110d24cbbec8e57fc7a5804c29fa400871e19f90addd4af8c5b67dd78d466"
+    },
+    {
+      "path": "assets/page-pingo-281-html-1.js",
+      "bytes": 1249,
+      "sha256": "2115001b12489962d2d65e892bf6f508fce605b1986ad71084d8eed3fea722bc"
+    },
+    {
+      "path": "assets/page-pingo-chave-html-1.js",
+      "bytes": 1202,
+      "sha256": "df18f5aa36d5ccfe74a32ed9ee0fbc3ccf638599f96ebd03af0d0ad9aa44fdfa"
+    },
+    {
+      "path": "assets/page-pingo-cliente-html-1.js",
+      "bytes": 1348,
+      "sha256": "6c438d3133b1b1069a90dc797c019e8aee26fda2c72c50e7b1e945b1af273f34"
+    },
+    {
+      "path": "assets/page-pingo-contexto-html-1.js",
+      "bytes": 1313,
+      "sha256": "79b351228ea9e5910b4624569585172112b70c8660b5ee930bdb8f0e316471b1"
+    },
+    {
+      "path": "assets/page-pingo-gpt-html-1.js",
+      "bytes": 1330,
+      "sha256": "97031ec97152a81026169ba339eadf983b7d1f169e0502f408ed1ebb6b5e6d07"
+    },
+    {
+      "path": "conversar.html",
+      "bytes": 3054,
+      "sha256": "666d1844be2041e87be8c441c96337ba322cf9fe2bbd090cca57176190c2a1d5"
+    },
+    {
+      "path": "favorito.txt",
+      "bytes": 256,
+      "sha256": "b2f76d9a1fc1c5f0e69b91f77c3097879a4acf7f09f27ec37ed1b5521d79313e"
+    },
+    {
+      "path": "galeria-275.html",
+      "bytes": 4398,
+      "sha256": "d06eaa1c899b36e4200304d43e81f141e62fd7bde61b8599e62a2cea9210bd36"
+    },
+    {
+      "path": "galeria-v75.html",
+      "bytes": 4391,
+      "sha256": "657969d35f1b2fea786bde175bdc8cdcd283081d0a88ec59dcce5eb010607a0e"
+    },
+    {
+      "path": "gramado.html",
+      "bytes": 3052,
+      "sha256": "29518599afbded6a2fe413cf51b1564c427909fe9abd345e0e3b936c9b2fc34b"
+    },
+    {
+      "path": "icons/pingo-180.png",
+      "bytes": 4197,
+      "sha256": "94a8838bf019f6869ec3e58d2e3ecd819a085655a789d1afee417501a32349d6"
+    },
+    {
+      "path": "icons/pingo-192.png",
+      "bytes": 4478,
+      "sha256": "d7e4907c88d08a2a8f123885a40e4a5f5f667df928679722b02f936f807e69df"
+    },
+    {
+      "path": "icons/pingo-512.png",
+      "bytes": 13349,
+      "sha256": "fba7334ed0c01364fd379201e0b3f2b1f814846fff4d332a656bf456f23b0403"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4630,
+      "sha256": "dc33140f31518569db99258d3a8a308001fe983d8fb2c0f194602c5ddb1f4271"
+    },
+    {
+      "path": "mobile-app.js",
+      "bytes": 3156,
+      "sha256": "78c277b9f71a7eab97e3766503092a7a2bd102220199d436f3e01f5924067404"
+    },
+    {
+      "path": "mobile-sw.js",
+      "bytes": 2286,
+      "sha256": "369814a6478a6ddcb0c7022d786cacae30cbfd7612ceff494195e8b1ca446cf7"
+    },
+    {
+      "path": "mobile.css",
+      "bytes": 2534,
+      "sha256": "17a45285bf62c65bbd1d77260b585365178da8d022bc5660edd001acbd4b2e6a"
+    },
+    {
+      "path": "mobile.html",
+      "bytes": 2895,
+      "sha256": "52ad10af38a513b7ee80a88737957cbf08b4d54494cca0419b9bb396e39854bc"
+    },
+    {
+      "path": "passeio-painel.html",
+      "bytes": 3059,
+      "sha256": "3474c4274a6027baf562d1a95734a5c79235c415d37d977c81de1b4ad85a5281"
+    },
+    {
+      "path": "passeio-v75.html",
+      "bytes": 3056,
+      "sha256": "7e7fa202e4cf694c7aec3f8076ec2037dcccd6578ae6d3572e7a5dc1742bb6d4"
+    },
+    {
+      "path": "passeio.html",
+      "bytes": 3052,
+      "sha256": "90839bbcd58de1f5173f29158c99791d4b8e3899e8589da861acd7911c7762da"
+    },
+    {
+      "path": "pingo-23-animacoes.glb",
+      "bytes": 3080216,
+      "sha256": "c1bf0e399fc80bb2dbf9f356827ce602b090348df84e1cafd8d6af557c281cd1"
+    },
+    {
+      "path": "pingo-275.html",
+      "bytes": 3054,
+      "sha256": "a5ba66835ce8dac1ef43fd98e0b09877fbbc924009f9c993a7202c0704da68ff"
+    },
+    {
+      "path": "pingo-281.html",
+      "bytes": 3054,
+      "sha256": "24cbe354c224ed51e6456193cd0a7a46d04a92767bc1eb124b5443011398e320"
+    },
+    {
+      "path": "pingo-73-animacoes.zip",
+      "bytes": 1523498,
+      "sha256": "1262be60fc1ef3faea27207e9b1ce8a07f92ba71d4ee5076feec7987e0246714"
+    },
+    {
+      "path": "pingo-75-animacoes.zip",
+      "bytes": 1675651,
+      "sha256": "265ee046b0b56e51bf69dac1a75ade0583d47be372974301bbbd5e324e7902d6"
+    },
+    {
+      "path": "pingo-andando.glb",
+      "bytes": 980988,
+      "sha256": "a8f67c27d4f441b7e4635642c5617264ef23c453c1ac0db27060e0cb4df45f15"
+    },
+    {
+      "path": "pingo-android-teste.apk",
+      "bytes": 216998,
+      "sha256": "9789d344714c4100d32c57f9ef727580cf5e282a37552d12ebefc5a42a9653b8"
+    },
+    {
+      "path": "pingo-chave.html",
+      "bytes": 3056,
+      "sha256": "0ef21d3be88c395bedc062d30a0f12d63bfd142d76130cdee1145d6c5b141c44"
+    },
+    {
+      "path": "pingo-cliente.html",
+      "bytes": 3058,
+      "sha256": "411c1419553b7d2c5b9ff5cb977b803ef663a89aa1519db578cff7ed13208424"
+    },
+    {
+      "path": "pingo-comendo.glb",
+      "bytes": 1028396,
+      "sha256": "9417c9ee3ca77c63bf1f1eede8fa9f3d2a3303c11571e9d7e7268aa0ce1f18c5"
+    },
+    {
+      "path": "pingo-contexto.html",
+      "bytes": 3059,
+      "sha256": "85e2f52431bcfa9920127276797803da7f46dbdce195a0a03d3e6f6a96be7b0b"
+    },
+    {
+      "path": "pingo-dormindo.glb",
+      "bytes": 1020320,
+      "sha256": "fb00fdaa3ac5b0a89eb318f1c933018ee2f1c228c124d389af4422bb9ec4a2d1"
+    },
+    {
+      "path": "pingo-flutuante.js",
+      "bytes": 1343318,
+      "sha256": "cff025230e80e9a7eb0ee48858bba6357423f9c1a8a2169cef1ef15271f4e708"
+    },
+    {
+      "path": "pingo-gpt.html",
+      "bytes": 3054,
+      "sha256": "5d5842942581996d868d0527426d74ba7ba5d499d440f48cbec69cedb5350257"
+    },
+    {
+      "path": "pingo.glb",
+      "bytes": 812068,
+      "sha256": "b9862b886f5fca2286c8c98534fdc519d5a7c88f276d04906b2b9e66b652260e"
+    },
+    {
+      "path": "pingo.js",
+      "bytes": 1257222,
+      "sha256": "de6fca04bf1f06a08666f13e90d1b0c55a1bd2dceccfdbe97ee490b6f63e7811"
+    },
+    {
+      "path": "pingo.webmanifest",
+      "bytes": 474,
+      "sha256": "30e25eb95d9ee9dd3cf3d1fc568b09bc49cc78601e9bf2a43463526cdc8f587e"
+    },
+    {
+      "path": "release.json",
+      "bytes": 173,
+      "sha256": "e73428c1a1910a33de0d9db87dd22c1d7404eb90b17b4f8651e0bac17cd7c176"
+    },
+    {
+      "path": "world/index.html",
+      "bytes": 6229,
+      "sha256": "286a0399359d5ba68cdbf77e9fef0b3cecd3b61cfb0544817fa8ef84cd44ace9"
+    },
+    {
+      "path": "world/manifest.webmanifest",
+      "bytes": 480,
+      "sha256": "a69c73d3f21ab3fdb18b7558d6cc38f41fa53179bc1ff71909d904b2dba56e45"
+    },
+    {
+      "path": "world/pingo-world.js",
+      "bytes": 1240699,
+      "sha256": "5cc315b8d1c053133f5a5a23e2de147b4674214d347779048d7bdb53bc419369"
+    },
+    {
+      "path": "world/styles.css",
+      "bytes": 20092,
+      "sha256": "417e3ca5ef97fd458512bd0a1314071493026db5e98eba409f78a637ea603015"
+    },
+    {
+      "path": "world/sw.js",
+      "bytes": 2126,
+      "sha256": "a28329411ed2e20ce125d42f6aa078217738d801968108bb4cf471e9fab95389"
+    }
+  ]
+}
